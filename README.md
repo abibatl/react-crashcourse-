@@ -13,4 +13,3 @@ npm install
 ### Run the App
 ```bash
 npx expo start
-```
